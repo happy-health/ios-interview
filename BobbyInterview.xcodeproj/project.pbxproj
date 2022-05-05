@@ -16,6 +16,7 @@
 		6671F10528242B150074B3D0 /* BobbyInterviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6671F10428242B150074B3D0 /* BobbyInterviewTests.swift */; };
 		6671F10F28242B150074B3D0 /* BobbyInterviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6671F10E28242B150074B3D0 /* BobbyInterviewUITests.swift */; };
 		6671F11128242B150074B3D0 /* BobbyInterviewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6671F11028242B150074B3D0 /* BobbyInterviewUITestsLaunchTests.swift */; };
+		6671F11E28242B950074B3D0 /* SpeechRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6671F11D28242B950074B3D0 /* SpeechRecognizer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6671F10A28242B150074B3D0 /* BobbyInterviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BobbyInterviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6671F10E28242B150074B3D0 /* BobbyInterviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BobbyInterviewUITests.swift; sourceTree = "<group>"; };
 		6671F11028242B150074B3D0 /* BobbyInterviewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BobbyInterviewUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6671F11D28242B950074B3D0 /* SpeechRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeechRecognizer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				6671F0ED28242B140074B3D0 /* AppDelegate.swift */,
 				6671F0EF28242B140074B3D0 /* SceneDelegate.swift */,
 				6671F0F128242B140074B3D0 /* ViewController.swift */,
+				6671F11D28242B950074B3D0 /* SpeechRecognizer.swift */,
 				6671F0F328242B140074B3D0 /* Main.storyboard */,
 				6671F0F628242B150074B3D0 /* Assets.xcassets */,
 				6671F0F828242B150074B3D0 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6671F0F228242B140074B3D0 /* ViewController.swift in Sources */,
+				6671F11E28242B950074B3D0 /* SpeechRecognizer.swift in Sources */,
 				6671F0EE28242B140074B3D0 /* AppDelegate.swift in Sources */,
 				6671F0F028242B140074B3D0 /* SceneDelegate.swift in Sources */,
 			);
