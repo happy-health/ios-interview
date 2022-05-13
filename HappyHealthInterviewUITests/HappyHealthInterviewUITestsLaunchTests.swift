@@ -1,13 +1,13 @@
 //
-//  BobbyInterviewUITestsLaunchTests.swift
-//  BobbyInterviewUITests
+//  HappyHealthInterviewUITestsLaunchTests.swift
+//  HappyHealthInterviewUITests
 //
-//  Created by Haris Ali on 5/5/22.
+//  Created by Haris Ali on 5/13/22.
 //
 
 import XCTest
 
-class BobbyInterviewUITestsLaunchTests: XCTestCase {
+class HappyHealthInterviewUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

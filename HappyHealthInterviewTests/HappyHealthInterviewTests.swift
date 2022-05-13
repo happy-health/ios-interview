@@ -1,14 +1,14 @@
 //
-//  BobbyInterviewTests.swift
-//  BobbyInterviewTests
+//  HappyHealthInterviewTests.swift
+//  HappyHealthInterviewTests
 //
-//  Created by Haris Ali on 5/5/22.
+//  Created by Haris Ali on 5/13/22.
 //
 
 import XCTest
-@testable import BobbyInterview
+@testable import HappyHealthInterview
 
-class BobbyInterviewTests: XCTestCase {
+class HappyHealthInterviewTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
